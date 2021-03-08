@@ -1,0 +1,12 @@
+D:\schoolC#\20180702060邓可第二章作业\dk_H_2_6\dk_H_2_6\bin\Debug\netcoreapp3.1\dk_H_2_6.exe
+D:\schoolC#\20180702060邓可第二章作业\dk_H_2_6\dk_H_2_6\bin\Debug\netcoreapp3.1\dk_H_2_6.deps.json
+D:\schoolC#\20180702060邓可第二章作业\dk_H_2_6\dk_H_2_6\bin\Debug\netcoreapp3.1\dk_H_2_6.runtimeconfig.json
+D:\schoolC#\20180702060邓可第二章作业\dk_H_2_6\dk_H_2_6\bin\Debug\netcoreapp3.1\dk_H_2_6.runtimeconfig.dev.json
+D:\schoolC#\20180702060邓可第二章作业\dk_H_2_6\dk_H_2_6\bin\Debug\netcoreapp3.1\dk_H_2_6.dll
+D:\schoolC#\20180702060邓可第二章作业\dk_H_2_6\dk_H_2_6\bin\Debug\netcoreapp3.1\dk_H_2_6.pdb
+D:\schoolC#\20180702060邓可第二章作业\dk_H_2_6\dk_H_2_6\obj\Debug\netcoreapp3.1\dk_H_2_6.csproj.CoreCompileInputs.cache
+D:\schoolC#\20180702060邓可第二章作业\dk_H_2_6\dk_H_2_6\obj\Debug\netcoreapp3.1\dk_H_2_6.AssemblyInfoInputs.cache
+D:\schoolC#\20180702060邓可第二章作业\dk_H_2_6\dk_H_2_6\obj\Debug\netcoreapp3.1\dk_H_2_6.AssemblyInfo.cs
+D:\schoolC#\20180702060邓可第二章作业\dk_H_2_6\dk_H_2_6\obj\Debug\netcoreapp3.1\dk_H_2_6.dll
+D:\schoolC#\20180702060邓可第二章作业\dk_H_2_6\dk_H_2_6\obj\Debug\netcoreapp3.1\dk_H_2_6.pdb
+D:\schoolC#\20180702060邓可第二章作业\dk_H_2_6\dk_H_2_6\obj\Debug\netcoreapp3.1\dk_H_2_6.genruntimeconfig.cache

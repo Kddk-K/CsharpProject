@@ -1,0 +1,13 @@
+D:\schoolC#\20180702060邓可实验二\dk_H_2_4\dk_H_2_4\bin\Debug\netcoreapp3.1\dk_H_2_4.exe
+D:\schoolC#\20180702060邓可实验二\dk_H_2_4\dk_H_2_4\bin\Debug\netcoreapp3.1\dk_H_2_4.deps.json
+D:\schoolC#\20180702060邓可实验二\dk_H_2_4\dk_H_2_4\bin\Debug\netcoreapp3.1\dk_H_2_4.runtimeconfig.json
+D:\schoolC#\20180702060邓可实验二\dk_H_2_4\dk_H_2_4\bin\Debug\netcoreapp3.1\dk_H_2_4.runtimeconfig.dev.json
+D:\schoolC#\20180702060邓可实验二\dk_H_2_4\dk_H_2_4\bin\Debug\netcoreapp3.1\dk_H_2_4.dll
+D:\schoolC#\20180702060邓可实验二\dk_H_2_4\dk_H_2_4\bin\Debug\netcoreapp3.1\dk_H_2_4.pdb
+D:\schoolC#\20180702060邓可实验二\dk_H_2_4\dk_H_2_4\obj\Debug\netcoreapp3.1\dk_H_2_4.csprojAssemblyReference.cache
+D:\schoolC#\20180702060邓可实验二\dk_H_2_4\dk_H_2_4\obj\Debug\netcoreapp3.1\dk_H_2_4.csproj.CoreCompileInputs.cache
+D:\schoolC#\20180702060邓可实验二\dk_H_2_4\dk_H_2_4\obj\Debug\netcoreapp3.1\dk_H_2_4.AssemblyInfoInputs.cache
+D:\schoolC#\20180702060邓可实验二\dk_H_2_4\dk_H_2_4\obj\Debug\netcoreapp3.1\dk_H_2_4.AssemblyInfo.cs
+D:\schoolC#\20180702060邓可实验二\dk_H_2_4\dk_H_2_4\obj\Debug\netcoreapp3.1\dk_H_2_4.dll
+D:\schoolC#\20180702060邓可实验二\dk_H_2_4\dk_H_2_4\obj\Debug\netcoreapp3.1\dk_H_2_4.pdb
+D:\schoolC#\20180702060邓可实验二\dk_H_2_4\dk_H_2_4\obj\Debug\netcoreapp3.1\dk_H_2_4.genruntimeconfig.cache

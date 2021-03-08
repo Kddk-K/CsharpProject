@@ -1,0 +1,10 @@
+D:\schoolC#\20180702060邓可实验二\dk_E_2_1\dk_E_2_1\bin\Debug\dk_E_2_1.exe.config
+D:\schoolC#\20180702060邓可实验二\dk_E_2_1\dk_E_2_1\bin\Debug\dk_E_2_1.exe
+D:\schoolC#\20180702060邓可实验二\dk_E_2_1\dk_E_2_1\bin\Debug\dk_E_2_1.pdb
+D:\schoolC#\20180702060邓可实验二\dk_E_2_1\dk_E_2_1\obj\Debug\dk_E_2_1.csprojAssemblyReference.cache
+D:\schoolC#\20180702060邓可实验二\dk_E_2_1\dk_E_2_1\obj\Debug\dk_E_2_1.Form1.resources
+D:\schoolC#\20180702060邓可实验二\dk_E_2_1\dk_E_2_1\obj\Debug\dk_E_2_1.Properties.Resources.resources
+D:\schoolC#\20180702060邓可实验二\dk_E_2_1\dk_E_2_1\obj\Debug\dk_E_2_1.csproj.GenerateResource.cache
+D:\schoolC#\20180702060邓可实验二\dk_E_2_1\dk_E_2_1\obj\Debug\dk_E_2_1.csproj.CoreCompileInputs.cache
+D:\schoolC#\20180702060邓可实验二\dk_E_2_1\dk_E_2_1\obj\Debug\dk_E_2_1.exe
+D:\schoolC#\20180702060邓可实验二\dk_E_2_1\dk_E_2_1\obj\Debug\dk_E_2_1.pdb
